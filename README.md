@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ismail Sars  
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+💻 Apasionado por el desarrollo Full Stack    
 
-<!--
-**Ismail-Sars/Ismail-Sars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías que uso:  
+- 🌐 **Frontend:** React, JavaScript, HTML, CSS , SCSS 
+- ⚙️ **Backend:** Java, Spring Boot, MySQL  
+- 📦 **Herramientas:** Git, GitHub, Docker  
 
-Here are some ideas to get you started:
+### 🌍 Encuéntrame en:  
+📩 ismailsars2002@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/ismail-sars-b21b3a225) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+💡 *¡Siempre aprendiendo y mejorando!* 🚀
